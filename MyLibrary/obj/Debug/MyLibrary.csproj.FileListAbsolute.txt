@@ -1,0 +1,7 @@
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\MyLibrary\bin\Debug\MyInterfaces.dll
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\MyLibrary\bin\Debug\MyInterfaces.pdb
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\MyLibrary\obj\Debug\MyLibrary.pdb

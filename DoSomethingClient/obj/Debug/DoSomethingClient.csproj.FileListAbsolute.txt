@@ -1,0 +1,8 @@
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\DoSomethingClient.exe.config
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\DoSomethingClient.exe
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\DoSomethingClient.pdb
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\MyInterfaces.dll
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\DoSomethingClient\bin\Debug\MyInterfaces.pdb
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\DoSomethingClient\obj\Debug\DoSomethingClient.exe
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\DoSomethingClient\obj\Debug\DoSomethingClient.pdb
+C:\Users\Yakov_Shtykov\Desktop\dotnetbasics-master\Day3\DoSomethingClient\obj\Debug\DoSomethingClient.csprojResolveAssemblyReference.cache
